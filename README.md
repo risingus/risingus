@@ -1,6 +1,5 @@
    
 <h1> <img src="/wave.gif" width="40px"> Hello people, i'm Gustavo Lima <img src="/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="40px"></h1>
-<hr style=" height: 0.2px; color: gray; background-color: gray;">
 <p>
     Web developer, obsessed with self improvement and learning new things.<br>
     Since he was a little boy he loves beautiful things and found in<br> programming and design a place to bring his ideas to life.
