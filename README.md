@@ -18,9 +18,9 @@ Reactjs, React Native, among others technologies.</p>
 
 <h2> 😀 Find me in:</h2>
 <p align="left">
-<a href="https://www.facebook.com/gustavo.lima.961556" target="blank"><img src="/facebook.svg" width="40px"></a>
-<a href="https://www.instagram.com/risin.gus/" target="blank"><img src="/instagram.svg" width="40px" ></a>
-<a href="mailto:gustavo.it@outlook.com" target="blank"><img src="/outlook.svg" width="40px" ></a>
-<a href="https://www.linkedin.com/in/gustavo-lima-44b425b1/" target="blank"><img src="/linkedin.svg" width="40px"></a>
+<a href="https://www.facebook.com/gustavo.lima.961556"><img src="/facebook.svg" width="40px"></a>
+<a href="https://www.instagram.com/risin.gus/"><img src="/instagram.svg" width="40px" ></a>
+<a href="mailto:gustavo.it@outlook.com"><img src="/outlook.svg" width="40px" ></a>
+<a href="https://www.linkedin.com/in/gustavo-lima-44b425b1/"><img src="/linkedin.svg" width="40px"></a>
 </p>
   
