@@ -16,7 +16,7 @@ Reactjs, React Native, among others technologies.</p>
    | Bootstrap | LESS | SASS/SCSS | Typescript |</p>
 
 
-<h2> 😀 Find me in:</h2>
+<h2> 😀 Let's chat:</h2>
 <p align="left">
 <a href="https://www.facebook.com/gustavo.lima.961556"><img src="/facebook.svg" width="40px"></a>
 <a href="https://www.instagram.com/risin.gus/"><img src="/instagram.svg" width="40px" ></a>
