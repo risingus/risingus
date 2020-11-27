@@ -14,6 +14,7 @@ Reactjs, React Native, among others technologies.</p>
 <h2> 🤖 Knowed technologies:</h2>
 <p>| HTML | CSS | Javascript | Reactjs | Nodejs | <br>
    | Bootstrap | LESS | SASS/SCSS | Typescript |</p>
+   [![Conventional Commits]
 
 
 <h2> 😀 Let's chat:</h2>
