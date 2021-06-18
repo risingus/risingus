@@ -6,7 +6,7 @@
 </p>
 
 <h2>🚀 Currently participating: </h2>
-<a href="https://rocketseat.com.br/">Bootcamp GoStack - RocketSeat</a>
+<a href="https://rocketseat.com.br/">Ignite - RocketSeat</a>
 <p>A bootcamp focused on the development of <br>
 full stack professionals in Javascript, Nodejs,<br>
 Reactjs, React Native, among others technologies.</p>
