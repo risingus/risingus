@@ -13,7 +13,11 @@ Reactjs, React Native, among others technologies.</p>
 
 <h2> 🤖 Knowed technologies:</h2>
 <p>| HTML | CSS | Javascript | Reactjs | Nodejs | <br>
-   | Bootstrap | LESS | SASS/SCSS | Typescript |</p>
+   | Bootstrap | LESS | SASS/SCSS | Typescript | <br>
+   | Redux | React Hooks | Chakra UI | API REST | <br>
+   | GitFlow | Frammer Motion | Styled Components |
+
+</p>
    
 
 
