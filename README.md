@@ -16,55 +16,55 @@
 ###
 
 <div align="center">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52">
 </a>
 
-<a href="https://www.typescriptlang.org/">
+<a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52">
 </a>
 
-<a href="https://pt-br.reactjs.org/">
+<a href="https://pt-br.reactjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52">
 </a>
 
-<a href="https://jestjs.io/pt-BR/">
+<a href="https://jestjs.io/pt-BR/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52">
 </a>
 
-<a href="https://storybook.js.org/">
+<a href="https://storybook.js.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52">
 </a>
 
-<a href="https://getbootstrap.com/">
+<a href="https://getbootstrap.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52">
 </a>
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52">
 </a>
 
-<a href="https://git-scm.com/">
+<a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52">
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5/">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52">
 </a>
 
-<a href="https://lesscss.org/">
+<a href="https://lesscss.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="40" width="52">
 </a>
 
-<a href="https://redux.js.org/">
+<a href="https://redux.js.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52">
 </a>
 
-<a href="https://sass-lang.com/">
+<a href="https://sass-lang.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52">
 </a>
    
-<a href="https://reactnative.dev/">
+<a href="https://reactnative.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52">
 </a>
 
